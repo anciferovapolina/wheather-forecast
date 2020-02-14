@@ -1,9 +1,14 @@
 import React from 'react';
 import './App.css';
+import Title from './components/title'
+import SearchForm from './components/search-form';
 
 function App() {
   return (
-    <div>Polina</div>
+    <div>
+      <Title/>
+      <SearchForm/>
+    </div>
   );
 }
 

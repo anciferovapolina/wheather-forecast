@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab3458c-3bfa-4ffb-80c7-58e258c57551" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/search-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/weather-info.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/weather-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/weather-info.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581667263590</updated>
       <workItem from="1581667265038" duration="6127000" />
+      <workItem from="1581928425832" duration="13051000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1581670535206</created>
@@ -95,13 +94,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="182" key="#ESLint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581670848710" />
-    <state x="2514" y="119" key="CommitChangelistDialog2" timestamp="1581670534792">
+    <state x="2514" y="119" key="CommitChangelistDialog2" timestamp="1581686641134">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2514" y="119" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581670534792" />
-    <state x="2472" y="245" key="Vcs.Push.Dialog.v2" timestamp="1581670590378">
+    <state x="2514" y="119" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581686641134" />
+    <state x="2472" y="245" key="Vcs.Push.Dialog.v2" timestamp="1581686642848">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581670590378" />
+    <state x="2472" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581686642848" />
   </component>
 </project>

@@ -24,7 +24,7 @@ class SearchForm extends React.Component {
     event.preventDefault();
     fetch(`https://cors-anywhere.herokuapp.com/http://api.openweathermap.org/data/2.5/weather?q=${this.state.valueCity},${this.state.valueCountry}&appid=${apiKey}&units=metric`)
       .then(
-        response  => response.json()
+        response  => response.json(),
       )
       .then(
         response => this.setState({
@@ -34,6 +34,8 @@ class SearchForm extends React.Component {
       .catch(
         error => console.log(error)
       );
+
+    console.log('handleSubmit: ', this.state.resultObj);
   }
 
   render() {

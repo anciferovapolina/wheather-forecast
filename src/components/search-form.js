@@ -34,8 +34,6 @@ class SearchForm extends React.Component {
       .catch(
         error => console.log(error)
       );
-
-    console.log('handleSubmit: ', this.state.resultObj);
   }
 
   render() {

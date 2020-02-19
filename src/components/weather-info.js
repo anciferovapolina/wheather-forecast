@@ -19,9 +19,6 @@ class WeatherInfo extends React.Component {
       };
     }
 
-    console.log('this.props.resultObj: ', this.props.resultObj);
-    console.log('items: ', items);
-
     return (
       <div>
         <ul className='weather__info'>
